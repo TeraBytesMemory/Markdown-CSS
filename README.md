@@ -6,7 +6,7 @@ This is a simple style with normalized defaults, it should work on anything from
 
 Add this to the top of your markdown file
 ```
-<link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
+<link href="https://raw.github.com/kottkrig/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
 ```
 
 
